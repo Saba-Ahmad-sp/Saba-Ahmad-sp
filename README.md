@@ -53,18 +53,13 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/thisis-sabaahmad/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sabaahmadwork@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/qr/MSJMMY5JFHMZP1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="75" height="30" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.instagram.com/this_is_saba_ahmad/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="75" height="30" alt="instagram logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/thisis-sabaahmad/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" /></a>
+  <img width="24" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sabaahmadwork@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo" /></a>
+  <img width="24" />
+  <a href="https://wa.me/qr/MSJMMY5JFHMZP1" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="40" alt="whatsapp logo" /></a>
+  <img width="24" />
+  <a href="https://www.instagram.com/this_is_saba_ahmad/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo" /></a>
 </div>
 
 ###
